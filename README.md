@@ -22,5 +22,5 @@ Love doing things, that can be proud of yours and ours.
 Things just things, by doing and improving that the results.
 Love sharing and balancing to your team, and contribute to them as well.
 
-Doing a good thing, is better ever in your life.
+Doing a good thing, is better than ever in your life.
 ```
