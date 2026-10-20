@@ -1,19 +1,15 @@
-# Zen of Code by Sambo Chea (And then I'm doing things)
+# Sambo’s Zen of Code
 
-### About developing and thinking about your coding
-<br />
+### Principles for building, learning, and working as a developer and engineer
 
-**Developing**
+- **Understand the problem.** Build what helps people, not complexity for its own sake.
+- **Keep it simple.** Choose clear designs that are easier to use, maintain, and improve.
+- **Take pride in the work.** Write thoughtful code and own the result, from idea to delivery.
+- **Keep learning.** Every challenge is a chance to grow as an engineer.
+- **Build together.** Share what you know, support your team, and make each other better.
+- **Improve a little at a time.** Good work comes from steady effort and reflection.
 
-**Architecting**
-
-**Learning**
-
-**Coding**
-
-**Thinking**
-
-**Zenning**
+### Zenning
 
 ```text
 We are all happy to do, if the problem it can be resolve by ourselves.
